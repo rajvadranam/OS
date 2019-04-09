@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="COLOR_BLINDNESS" value="deuteranopia" />
+    <option name="DND_WITH_PRESSED_ALT_ONLY" value="true" />
+    <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="MOVE_MOUSE_ON_DEFAULT_BUTTON" value="true" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="36" />
+  </component>
+</application>

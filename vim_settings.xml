@@ -1,18 +1,37 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/osPROJECT/OS/src/edu/ostate/cs5323/LOADER.java" timestamp="1554303586407">
-        <mark key="[" line="84" column="5" />
+      <file name="$USER_HOME$/Desktop/osPROJECT/OS/program_PGM_2.txt" timestamp="1554841571908">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/osPROJECT/OS/src/edu/ostate/cs5323/SYSTEM.java" timestamp="1554303669831" />
       <file name="$USER_HOME$/Desktop/osPROJECT/OS/OutPut.txt" timestamp="1554303645027">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="/fragment.java" timestamp="1554841400385">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="4">
+        <text>010 004
+0004000982C088C2
+AF0000401FFFC1FC
+A2004001
+002</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>010 004
+0004000982C088C2
+AF0000401FFFC1FC
+A2004001
+002</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -32,6 +51,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

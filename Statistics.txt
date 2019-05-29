@@ -1,0 +1,27 @@
+STATISTIC
+-----------------------------------------------------------------------
+
+A) Current Clock -> 7385.
+B) Mean Job Run time (decimal). 
+      -> { 176 }
+C) Mean Job IO time. (decimal) 
+      -> { 25 } 
+D) Mean Time in SYSTEM.(decimal) 
+      -> { 764 }
+E) CPU Idle Time.(decimal) 
+      -> { 2 }
+F) Total Time Lost Abnormal terminated Jobs (decimal) 
+      -> { 3012 }
+G) Number of jobs terminated Abnormally (decimal) 
+      -> { 6 }
+H) Number of jobs terminated normally (decimal) 
+      -> { 14 }
+I) Highest Degree of multiprogramming. 
+      -> { 4 }
+J) Lowest Degree of multiprogramming. 
+      -> { 0 }
+k) Mean Degree of multiprogramming. 
+      -> { 4 }
+L) Mean difference b?W arrival time and start time. 
+      -> { 834 }
+-----------------------------------------------------------------------

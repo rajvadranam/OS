@@ -1,0 +1,13 @@
+J  Mess                                               Clock(HEX)  Time        
+-- ----                                               ----------  ------------ 
+50 Abnormal - ERROR Incorrect ProgLEN EXCEPTION       0  ETime:1, I/O:0VTUs total: 1 
+
+1  Normal                                             2a ETime:42, I/O:0VTUs total: 42 
+
+9  Abnormal  Illegal INSTRUCTION                      2  ETime:3, I/O:0VTUs total: 3 
+
+11 Normal                                             16 ETime:22, I/O:0VTUs total: 22 
+
+10 Normal                                             10 ETime:16, I/O:0VTUs total: 16 
+
+2  Normal                                             7  ETime:7, I/O:0VTUs total: 7 
